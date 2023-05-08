@@ -1,6 +1,5 @@
 - name: Execunting when tomcat application 
   hosts: ansible_machine
-  connection: local
   tasks:
   - name:
     shell: cat /etc/hostname
