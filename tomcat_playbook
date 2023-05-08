@@ -1,6 +1,0 @@
-- name: Execunting when tomcat application 
-  hosts: ansible-1
-  connection: local
-  tasks:
-  - name:
-    shell: sh /home/student/playbook-tomcat/scripts/echo_html.sh
