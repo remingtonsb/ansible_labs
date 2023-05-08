@@ -2,4 +2,4 @@
   hosts: ansible_machine
   tasks:
   - name:
-    shell: sh /home/student/playbook-tomcat/scripts/echo_html.sh
+    shell: whoami
