@@ -3,4 +3,4 @@
   connection: local
   tasks:
   - name:
-    shell: echo $HOSTNAME
+    shell: cat /etc/hostname
