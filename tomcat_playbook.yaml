@@ -3,4 +3,4 @@
   connection: local
   tasks:
   - name:
-    shell: date
+    shell: sh /home/student/playbook-tomcat/scripts/echo_html.sh
