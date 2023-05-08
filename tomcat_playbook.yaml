@@ -2,4 +2,4 @@
   hosts: ansible_machine
   tasks:
   - name:
-    shell: sh /home/ec2-user/playbook-tomcat/scripts/echo_html.sh
+    shell: sh /automation/playbook-tomcat/scripts/echo_html.sh
